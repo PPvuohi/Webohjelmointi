@@ -1,0 +1,12 @@
+{
+  "name": "teht3",
+  "version": "0.0.1",
+  "description": "Tehtävä 3",
+  "license": "UNLICENSED",
+  "author": "Pekka Pennanen",
+  "type": "commonjs",
+  "main": "Javascript3.js",
+  "dependencies": {
+    "@types/node": "^25.2.3"
+  }
+}
